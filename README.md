@@ -6,7 +6,7 @@ I’m a digital designer designer based in Paris. I work on commissioned and aut
 
 
 - 🥐 I’m currently based in Paris
-- 👩‍🚒 Co-Founder of the design Studio [F451] (https://github.com/f451-faith) with 🧑‍🚒 [@quentin-f451](https://github.com/quentin-f451) 
+- 👩‍🚒 Co-Founder of the design Studio [F451](https://github.com/f451-faith) with 🧑‍🚒 [@quentin-f451](https://github.com/quentin-f451) 
 - 🕸️ I collect a lot of website on [Are.na](https://www.are.na/domitille-debret) 
-- 👔 Find me on [LinkedIn] (https://www.linkedin.com/in/domitille-debret-376640107/)
+- 👔 Find me on [LinkedIn](https://www.linkedin.com/in/domitille-debret-376640107/)
 - 📮 Send me an email [here](mailto:domitille@f451.faith)
