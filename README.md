@@ -6,7 +6,7 @@ I work on commissioned and autonomous research projects, and i’m also teaching
 
 
 - 🏔️🫕 I’m currently based in Bienne/Biel
-- 👩‍🚒 Co-Founder of the design Studio [F451](https:/f451.studio) with 🧑‍🚒 [@quentin-f451](https://github.com/quentin-f451) 
+- 👩‍🚒 Co-Founder of the design Studio [F451](https://f451.studio) with 🧑‍🚒 [@quentin-f451](https://github.com/quentin-f451) 
 - 🕸️ I collect lots of websites on [Are.na](https://www.are.na/domitille-debret) 
 - 👔 Find me on [LinkedIn](https://www.linkedin.com/in/domitille-debret-376640107/)
 - 📮 Send me an email [here](mailto:domitille@f451.studio)
